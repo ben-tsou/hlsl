@@ -50,7 +50,7 @@ register(
 
 To train the model:  
 ```shell
-cd HLSL
+cd hlsl
 python ./src/LSL_algorithm_full.py
 ```
 The models from the run will be saved in the directory `saved_models_full`.  To evaluate a model 
