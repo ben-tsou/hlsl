@@ -59,7 +59,7 @@ The models from the run will be saved in the directory `saved_models_full`.  To 
 python ./src/my_cartpole_policy_sampling.py --model_policy_file model_policy_file.pt
 ```
 
-[paper]: https://github.com 
+[paper]: https://github.com/ben-tsou/hlsl/blob/main/HLSL_paper.pdf
 [videos]: https://github.com/ben-tsou/hlsl/tree/main/sample_trajectory_videos
 [conda]: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
