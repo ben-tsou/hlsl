@@ -60,6 +60,6 @@ python ./src/my_cartpole_policy_sampling.py --model_policy_file model_policy_fil
 ```
 
 [paper]: https://github.com 
-[videos]: https://github.com 
+[videos]: https://github.com/ben-tsou/hlsl/tree/main/sample_trajectory_videos
 [conda]: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
